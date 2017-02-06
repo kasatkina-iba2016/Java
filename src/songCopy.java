@@ -1,0 +1,5 @@
+
+interface songCopy {
+	
+  void song();
+}
